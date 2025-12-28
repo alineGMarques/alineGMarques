@@ -1,7 +1,7 @@
 ### Olá, Eu sou Aline <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 - 💻 Cursando Análises e desenvovimento de sistemas
 - 🔭 Conhecimento em Ux/Ui Designer
-- 🌱 Estudando Front-end
+- 🌱 Estudando FullStack
 - ⚡ Violão/teclado
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alineGMarques&show_icons=true&theme=radical"/>
